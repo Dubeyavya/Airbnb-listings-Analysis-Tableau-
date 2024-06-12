@@ -1,4 +1,5 @@
 # Airbnb Listings Tableau Dashboard
+(https://public.tableau.com/app/profile/avishee.dubey6852/viz/Airbnblistingsvisualization/Dashboard1?publish=yes)
 
 ## Project Overview
 This repository hosts the code and resources for my Tableau dashboard project, focusing on exploring Airbnb listings in the vibrant city of New York City (NYC). Through this project, I aimed to uncover insights into various aspects of Airbnb listings, offering valuable perspectives for both hosts and travelers.
